@@ -1,0 +1,1 @@
+GitHub repositoryga ushbu fayllarni yuklang. Settings > Pages > Deploy from branch > main.
